@@ -39,6 +39,7 @@ function App() {
             </span>
             <span>{item.author}</span>
             <span>{item.points}</span>
+            <span>{null}</span>
             <span>{item.num_comments}</span>
           </li>;
         })}
